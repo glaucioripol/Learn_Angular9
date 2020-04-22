@@ -9,4 +9,5 @@
 ### Dicas e anotações
 
 - instalação da cli `sudo npm i -g @angular/cli`
-- criando projeto `ng new nome_app`
+- criando projeto `ng new nome_app --minimal`
+  - minimal, vem sem testes
