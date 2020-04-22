@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  align-items: center;
+  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
+  &__logo {
+      max-height: 2rem;
+  }
+
+  &__titleGroups{
+    padding: 0 0 0 1.5rem;
+    i {
+      padding: 0 .3rem 0 0;
+    }
+  }
+}
