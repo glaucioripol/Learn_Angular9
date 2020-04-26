@@ -1,0 +1,15 @@
+.containerNav {
+  .sideNav {
+    background-color: #3f51B5;
+    width: 200px;
+    &__list {
+
+    }
+    a {
+      color: white;
+      i {
+        padding-right: 0.8rem;
+      }
+    }
+  }
+}
